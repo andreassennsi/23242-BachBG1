@@ -1,6 +1,7 @@
 p {
   font-family: "monaco", monospace;
 }
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -22,11 +23,17 @@ li a {
   font-family: "garamond", serif;
 }
 li a:hover:not(.active) {
-  background-color: #8c1527;
+  background-color: #c96977;
+  color: white;
   font-family: "garamond", serif;
 }
 li a.active {
   color: white;
-  background-color: #8c1527;
+  background-color: #c96977;
   font-family: "garamond", serif;
+}
+
+.paginaactiva {
+  background-color: #8c1527;
+  color: white;
 }
