@@ -1,7 +1,6 @@
 p {
   font-family: "monaco", monospace;
 }
-
 ul {
   list-style-type: none;
   margin: 0;
@@ -23,7 +22,7 @@ li a {
   font-family: "garamond", serif;
 }
 li a:hover:not(.active) {
-  background-color: #ddd;
+  background-color: #8c1527;
   font-family: "garamond", serif;
 }
 li a.active {
@@ -31,4 +30,3 @@ li a.active {
   background-color: #8c1527;
   font-family: "garamond", serif;
 }
-
