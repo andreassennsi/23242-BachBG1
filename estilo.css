@@ -1,5 +1,5 @@
 p {
-  font-family: "monaco", monospace;
+  font-family: "Georgia", serif;
   margin-top: 50px;
   margin-bottom: 50px;
   margin-right: 150px;
@@ -8,7 +8,7 @@ p {
 
 h1 {
   
-  font-family: "Garamond", sherif;
+  font-family: "Garamond", serif;
   margin-top: 200px;
   margin-bottom: 20px;
   margin-right: 20px;
@@ -19,35 +19,47 @@ h1 {
 }
 
 h2 {
-  font-family: "monaco", monospace;
+  font-family: "Garamond", serif;
   margin-top: 100px;
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
+  text-align: center;
+  text-decoration: bold;
+  color: #b3374a;
 }
 
 h3 {
-  font-family: "monaco", monospace;
+  font-family: "Garamond", serif;
   margin-top: 100px;
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
+  text-align: center;
+  text-decoration: bold;
+  color: #c75667;
 }
 
 h4 {
-  font-family: "monaco", monospace;
+  font-family: "Garamond", serif;
   margin-top: 100px;
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
+  text-align: center;
+  text-decoration: bold;
+  color: #591f28;
 }
 
 h5 {
-  font-family: "monaco", monospace;
+  font-family: "Garamond", serif;
   margin-top: 100px;
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
+  text-align: center;
+  text-decoration: bold;
+  color: #45131b;
 }
 
 /* CLASES */
