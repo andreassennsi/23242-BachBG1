@@ -1,23 +1,93 @@
 p {
   font-family: "monaco", monospace;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 150px;
+  margin-left: 80px;
 }
 
+h1 {
+  
+  font-family: "Garamond", sherif;
+  margin-top: 200px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  text-align: center;
+  text-decoration: bold;
+  color: #8c1527;
+}
+
+h2 {
+  font-family: "monaco", monospace;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+h3 {
+  font-family: "monaco", monospace;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+h4 {
+  font-family: "monaco", monospace;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+h5 {
+  font-family: "monaco", monospace;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+/* CLASES */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* NO TOCAR */
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
+   text-align: right;
   border: 1px solid #e7e7e7;
   background-color: #f3f3f3;
   font-family: "garamond", serif;
 }
-li {
-  float: left;
+.menu {
+  float: right;
 }
 li a {
   display: block;
   color: #666;
-  text-align: center;
+  text-align: right;
   padding: 14px 16px;
   text-decoration: none;
   font-family: "garamond", serif;
@@ -32,8 +102,13 @@ li a.active {
   background-color: #c96977;
   font-family: "garamond", serif;
 }
-
-.paginaactiva {
-  background-color: #8c1527;
-  color: white;
+.home {
+  display: block;
+  color: #666;
+  text-align: left;
+  float: left;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-family: "garamond", serif;
+  width: 13%;
 }
