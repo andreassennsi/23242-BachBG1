@@ -80,7 +80,7 @@ ul {
   padding: 0;
   overflow: hidden;
    text-align: right;
-  border: 1px solid #e7e7e7;
+  border: 1 px solid #e7e7e7;
   background-color: #f3f3f3;
   font-family: "garamond", serif;
 }
@@ -91,7 +91,7 @@ li a {
   display: block;
   color: #666;
   text-align: right;
-  padding: 14px 16px;
+  padding: 14 px 16 px;
   text-decoration: none;
   font-family: "garamond", serif;
 }
@@ -110,8 +110,8 @@ li a.active {
   color: #666;
   text-align: left;
   float: left;
-  padding: 10px 10px;
+  padding: 10 px 10 px;
   text-decoration: none;
   font-family: "garamond", serif;
-  width: 13%;
+  width: 13 %;
 }
