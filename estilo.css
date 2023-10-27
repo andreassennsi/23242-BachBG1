@@ -1,21 +1,23 @@
 p {
   font-family: "Georgia", serif;
-  margin-top: 50px;
-  margin-bottom: 50px;
-  margin-right: 150px;
-  margin-left: 80px;
+  margin-top: 80 px;
+  margin-bottom: 50 px;
+  margin-right: 150 px;
+  margin-left: 80 px;
 }
 
 h1 {
   
   font-family: "Garamond", serif;
-  margin-top: 200px;
-  margin-bottom: 20px;
-  margin-right: 20px;
-  margin-left: 20px;
+  margin-top: 50 px;
+  margin-bottom: 20 px;
+  margin-right: 20 px;
+  margin-left: 20 px;
   text-align: center;
   text-decoration: bold;
   color: #8c1527;
+  font-size: 50;
+  text-transform: uppercase;
 }
 
 h2 {
@@ -61,7 +63,6 @@ h5 {
   text-decoration: bold;
   color: #45131b;
 }
-
 /* CLASES */
 
 
