@@ -4,6 +4,7 @@ p {
   margin-bottom: 50px;
   margin-right: 150px;
   margin-left: 80px;
+   text-align: justify;
 }
 
 h1 {
@@ -11,8 +12,6 @@ h1 {
   font-family: "Garamond", serif;
   margin-top: 50px;
   margin-bottom: 20px;
-  margin-right: 20px;
-  margin-left: 20px;
   text-align: center;
   text-decoration: bold;
   color: #8c1527;
@@ -22,10 +21,8 @@ h1 {
 
 h2 {
   font-family: "Garamond", serif;
-  margin-top: 100px;
+  margin-top: 20px;
   margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
   text-align: center;
   text-decoration: bold;
   color: #b3374a;
@@ -33,10 +30,8 @@ h2 {
 
 h3 {
   font-family: "Garamond", serif;
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   text-align: center;
   text-decoration: bold;
   color: #c75667;
@@ -44,10 +39,8 @@ h3 {
 
 h4 {
   font-family: "Garamond", serif;
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   text-align: center;
   text-decoration: bold;
   color: #591f28;
@@ -63,6 +56,16 @@ h5 {
   text-decoration: bold;
   color: #45131b;
 }
+
+table {
+  border: 0px;
+  padding-top: 20px;
+  padding-right: 10%;
+  padding-bottom: 20px;
+  padding-left: 10%;
+}
+
+
 /* CLASES */
 
 .tablandrea {
