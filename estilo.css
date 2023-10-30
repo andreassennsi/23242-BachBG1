@@ -1,18 +1,18 @@
 p {
   font-family: "Georgia", serif;
-  margin-top: 80 px;
-  margin-bottom: 50 px;
-  margin-right: 150 px;
-  margin-left: 80 px;
+  margin-top: 80px;
+  margin-bottom: 50px;
+  margin-right: 150px;
+  margin-left: 80px;
 }
 
 h1 {
   
   font-family: "Garamond", serif;
-  margin-top: 50 px;
-  margin-bottom: 20 px;
-  margin-right: 20 px;
-  margin-left: 20 px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
   text-align: center;
   text-decoration: bold;
   color: #8c1527;
@@ -22,10 +22,10 @@ h1 {
 
 h2 {
   font-family: "Garamond", serif;
-  margin-top: 100 px;
-  margin-bottom: 100 px;
-  margin-right: 150 px;
-  margin-left: 80 px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
   text-align: center;
   text-decoration: bold;
   color: #b3374a;
@@ -33,10 +33,10 @@ h2 {
 
 h3 {
   font-family: "Garamond", serif;
-  margin-top: 100 px;
-  margin-bottom: 100 px;
-  margin-right: 150 px;
-  margin-left: 80 px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
   text-align: center;
   text-decoration: bold;
   color: #c75667;
@@ -44,10 +44,10 @@ h3 {
 
 h4 {
   font-family: "Garamond", serif;
-  margin-top: 100 px;
-  margin-bottom: 100 px;
-  margin-right: 150 px;
-  margin-left: 80 px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
   text-align: center;
   text-decoration: bold;
   color: #591f28;
@@ -55,17 +55,18 @@ h4 {
 
 h5 {
   font-family: "Garamond", serif;
-  margin-top: 100 px;
-  margin-bottom: 100 px;
-  margin-right: 150 px;
-  margin-left: 80 px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
   text-align: center;
   text-decoration: bold;
   color: #45131b;
 }
 /* CLASES */
+
 .tablandrea {
-width: 100%;
+  width: 100%;
 }
 
 
@@ -80,7 +81,7 @@ ul {
   padding: 0;
   overflow: hidden;
    text-align: right;
-  border: 1 px solid #e7e7e7;
+  border: 1px solid #e7e7e7;
   background-color: #f3f3f3;
   font-family: "garamond", serif;
 }
@@ -113,5 +114,5 @@ li a.active {
   padding: 10px 10px;
   text-decoration: none;
   font-family: "garamond", serif;
-  width: 13 %;
+  width: 13%;
 }
