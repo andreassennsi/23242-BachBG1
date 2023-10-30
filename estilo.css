@@ -91,7 +91,7 @@ li a {
   display: block;
   color: #666;
   text-align: right;
-  padding: 14 px 16 px;
+  padding: 14px 16px;
   text-decoration: none;
   font-family: "garamond", serif;
 }
@@ -110,7 +110,7 @@ li a.active {
   color: #666;
   text-align: left;
   float: left;
-  padding: 10 px 10 px;
+  padding: 10px 10px;
   text-decoration: none;
   font-family: "garamond", serif;
   width: 13 %;
