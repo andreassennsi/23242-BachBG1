@@ -84,6 +84,10 @@ width: 100%;
 text-align: left;
 border: 0px;
 font-family: "Georgia", serif;
+paddin-top: 0px;
+paddin-right: 0px;
+paddin-bottom: 0px;
+paddin-left: 10px;
 }
 
 .daniel {
