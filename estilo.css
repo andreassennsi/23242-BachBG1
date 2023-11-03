@@ -1,10 +1,10 @@
 p {
   font-family: "Georgia", serif;
-  margin-top: 80px;
-  margin-bottom: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   margin-right: 150px;
   margin-left: 80px;
-   text-align: justify;
+  text-align: justify;
 }
 
 h1 {
@@ -60,8 +60,14 @@ h5 {
 
 /* CLASES */
 
-.tablandrea {
+.tablaindex {
   width: 100%;
+  bgcolor: #8c1527;
+}
+
+.tablandrea {
+  width: 90%;
+  text-align: center;
 }
 
 .tablamiriam {
@@ -70,6 +76,7 @@ h5 {
   padding-right: 10%;
   padding-bottom: 20px;
   padding-left: 10%;
+  text-align: left;
 }
 
 .tabladaniel {
