@@ -64,12 +64,17 @@ table {
 
 .tablaindex {
   width: 100%;
-  bgcolor: #8c1527;
+  background-color: #8c1527;
 }
 
 .tablandrea {
   width: 90%;
   text-align: center;
+}
+
+.imagenesindex { 
+  width: 200px
+  heigth: 200px
 }
 
 .tablamiriam {
