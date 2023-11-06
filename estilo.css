@@ -118,7 +118,6 @@ paddin-bottom: 0px;
 paddin-left: 10px;
 }
   
-
 .tablafinal {
 width: 100%;
 text-align: left;
@@ -126,7 +125,10 @@ border: 0px;
 background-color: black;
 }
 
-
+.fotosmiriam {
+height: 200px
+align: center
+}
 
 /* NO TOCAR */
 ul {
