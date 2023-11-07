@@ -102,6 +102,14 @@ paddin-bottom: 0px;
 paddin-left: 10px;
 }
 
+.tddaniel
+ {
+width: 50%;
+paddin-left: 5px;
+}
+
+
+
 .daniel {
 margin: 0 auto;
 padding: 5px;
@@ -109,6 +117,7 @@ background-color: #fff;
 border-radius: 2px;
 font-family: "Georgia", serif;
 color: black;
+}
 
 
 .tablemiguel {
