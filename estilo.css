@@ -62,6 +62,9 @@ table {
 }
 
 
+
+
+
 /* CLASES */
 
 .tablaindex {
@@ -127,10 +130,12 @@ background-color: black;
 }
 
 .fotosmiriam {
-height: 200px
-align: center
+height: 200px;
 }
 
+
+
+  
 /* NO TOCAR */
 ul {
   list-style-type: none;
