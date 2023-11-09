@@ -1,10 +1,10 @@
 <HTML>
 <head>
   <link rel="stylesheet" href="estilo.css">
-<TITLE>rom-cache</TITLE></TITLE>
+<TITLE>RAM Y RAM CMOS</TITLE>
  </head>
-  <BODY>  
- <ul>
+<BODY>  
+  <ul>
   <li><a class="menu" href="placabase.html">Placa Base</a></li>
   <li><a class="menu" href="tarjetasexpansion.html">Tarjetas de Expansión</a></li>
   <li><a class="menu" href="buses.html">Buses</a></li>
@@ -13,38 +13,69 @@
   <li><a class="menu" href="rom-cache.html">Memoria Cache / ROM</a></li>
   <li><a class="home" href="index.html">Home</a></li>
   <li><a class="menu" href="microprocesadorCPU.html">Microprocesador</a></li>
-</ul>  
-<table class="tabladaniel">
+</ul>
+	
+<h1>Memoria RAM y RAM CMOS</h1>
+
+	<table class="tabladaniel">
 	<tr>
-	<td>
-		<IMG SRC="imagenes/ram.jpg" align="center" width="300" height="200">
+	<td align="center">
+		<IMG SRC="imagenes/ram.jpg" align="center" width="400" height="300">
 	</td>
-	<td>
-		<IMG SRC="imagenes/ram2.jpg" align="center" width="300" height="200">
+	<td align="center">
+		<IMG SRC="imagenes/ram2.jpg" align="center" width="400" height="300">
 	</td>
 	</tr>
 </table>
-<table class="tabladaniel">
-        <tr><th>¿Qué es la Memoria ROM?<BR><BR></th></tr>
-        <tr><Td>La ROM BIOS es de sólo lectura, por lo que no se puede escribir en ella. Contiene información grabada por el fabricante que no 
-    desaparece al desconectar el ordenador. Contiene las instrucciones para realizar el chequeo inicial del ordenador.
-    Cuando arranca un ordenador la BIOS chequea los componentes y compara la información obtenida con la almacenada en la CMOS. 
-    Si el resultado de la comparación es correcto el SO se carga, y si no emite un pitido informando del problema.<BR><BR><BR></td></tr>
 	
-        <tr><th>Funciones de la Memoria RAM<BR><BR></th><tr>
-        <tr><Td>La RAM desempeña un papel crucial en el rendimiento de una computadora, ya que almacena datos y programas 
-	que se utilizan activamente. Algunas de sus funciones principales son:
-        <ul>
-            <li>Almacenar datos en uso por el sistema operativo y las aplicaciones.</li>
-            <li>Proporcionar acceso rápido a los datos, lo que acelera el rendimiento de la computadora.</li>
-            <li>Permitir la multitarea al mantener varios programas abiertos al mismo tiempo.</li>
-	</ul>
-	</Td></tr><BR><BR><BR>
+    <table class="tabladaniel">
+        <tr class="trdaniel"><th>¿Qué es la Memoria ROM?</th>
+		<Th>¿Qué es la memoria RAM CMOS?</Th></tr>
+        <tr class="trdaniel">
+		<Td class="tddaniel"><BR><BR>La memoria ROM (Read-Only Memory) es un tipo de memoria de almacenamiento que se utiliza principalmente en sistemas 
+	electrónicos para almacenar datos que no cambian o cambian raramente. A diferencia de la memoria RAM (Random Access Memory), la ROM conserva la información 
+	incluso cuando se apaga la alimentación eléctrica. <BR><BR><BR></td>
+		<TD class="tddaniel"><BR><BR>La memoria RAM CMOS es una pequeña área de memoria volátil que se encuentra en la placa base (mainboard) de una computadora. 
+	No debe confundirse con la memoria RAM principal, que es donde se almacenan los datos y programas en ejecución. La memoria RAM CMOS 
+	se utiliza para almacenar configuraciones críticas y datos de bajo nivel, como la fecha y la hora del sistema, la configuración del 
+	hardware, las contraseñas de la BIOS y otros parámetros del sistema.<BR><BR><BR></TD></tr>
+	
+        <tr class="trdaniel">
+		<th>Tipos de Memoria ROM<BR><BR></th>
+		<th>Función de la Memoria RAM CMOS<BR><BR></th></tr>
+        <tr class="trdaniel">
+		<Td class="tddaniel">Existen distintos tipos de Memorias ROM. Estas son algunas de ellas:
+        <ol>	
+            <li>ROM Máscara (Mask ROM): Los datos se graban durante la fabricación y no pueden ser cambiados.</li>
+            <li>EPROM (Erasable Programmable ROM): Puede ser programada y borrada múltiples veces mediante el uso de luz ultravioleta.</li>
+            <li>EEPROM (Electrically Erasable Programmable ROM): Se puede borrar y reprogramar eléctricamente, sin necesidad de luz ultravioleta.</li>
+	    <li>Flash ROM: Similar a la EEPROM, pero permite borrar y reescribir bloques más grandes de datos, lo que la hace más eficiente.</li>
+	</ol>
+	<BR><BR><BR></Td>
+		<td class="tddaniel">La memoria RAM CMOS se utiliza para retener información importante que debe mantenerse incluso cuando la computadora está apagada. 
+	Algunas de sus funciones principales son:
+	<ol>
+		<li>Mantener la configuración de la BIOS (Basic Input/Output System).
+		<li>Almacenar la fecha y la hora del sistema.
+		<li>Conservar la contraseña de inicio de sesión de la BIOS.
+		<li>Registrar los cambios en la configuración del hardware.
+	</ol>
+	<BR><BR><BR></td></tr>
 
-	<tr><Th>Tipo de Memoria RAM<BR><BR></th></tr>
-        <tr><td>Existen varios tipos de memoria RAM, incluyendo DDR, DDR2, DDR3, DDR4, y DDR5, cada uno con diferentes velocidades 
-	y capacidades. La elección de la memoria RAM adecuada depende de las necesidades específicas de tu computadora y tu presupuesto.</td></tr><BR><BR><BR>
+	<tr class="trdaniel">
+		<Th>Uso de la Memoria ROM<BR><BR></th>
+		<th>Problemas comunes de la memoria CMOS</th></tr>
+        <tr class="trdaniel">
+		<td class="tddaniel"> La ROM se utiliza para almacenar el firmware del sistema, BIOS/UEFI de la computadora, controladores de dispositivos y otros programas 
+		esenciales para el funcionamiento del sistema. Estos datos no cambian con frecuencia y son críticos para el arranque y la operación básica del hardware.<BR><BR>
+		Además de su uso en computadoras, la memoria ROM se encuentra en una variedad de dispositivos electrónicos, como consolas de videojuegos, electrodomésticos, teléfonos 
+		móviles y otros sistemas embebidos.</td>
+		<td class="tddaniel">Los problemas comunes relacionados con la memoria RAM CMOS incluyen la pérdida de configuraciones, errores de fecha y hora incorrectos, 
+	o la incapacidad de acceder a la computadora debido a una contraseña de BIOS olvidada. Estos problemas a menudo se pueden resolver ingresando a la BIOS y 
+	realizando ajustes adecuados.</td></tr>
     </table>
+
+	
 </BODY>
 </HTML>
 
