@@ -91,7 +91,7 @@ table {
 
 .tabladaniel {
 width: 90%;
-text-align: justify;
+text-align: center;
 border: 0px;
 font-family: "Georgia", serif;
 padding-top: 5px;
@@ -104,6 +104,7 @@ padding-left: 10px;
  {
 width: 50%;
 padding-left: 5px;
+text-align: justify;
 }
 
 .trdaniel
