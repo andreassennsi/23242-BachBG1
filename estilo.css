@@ -85,6 +85,7 @@ font-family: "Georgia", serif;
 .imagenesindex { 
   width: 200px;
   heigth: 200px;
+  vertical-align: middle;
 }
 
 .tablamiriam {
