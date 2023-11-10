@@ -71,6 +71,10 @@ table {
 .tablaindex {
   width: 100%;
   background-color: #8c1527;
+  margin: auto;
+text-align: center;
+border: 0px;
+font-family: "Georgia", serif;
 }
 
 .tablandrea {
