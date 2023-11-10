@@ -124,6 +124,15 @@ color: black;
 }
 
 
+.thprincipal
+ {
+width: 33%;
+padding-left: 20px;
+text-align: justify;
+vertical-align: top;
+}
+
+
 .tablemiguel {
 width: 100%;
 text-align: left;
