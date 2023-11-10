@@ -59,6 +59,7 @@ h5 {
 table {
   width: 90%;
   align: center;
+  vertical-align: middle;
 }
 
 
@@ -95,11 +96,6 @@ margin: auto;
 text-align: center;
 border: 0px;
 font-family: "Georgia", serif;
-padding-top: 5px;
-padding-right: 50px;
-padding-bottom: 5px;
-padding-left: 30px;
-  
 }
 
 .tddaniel
@@ -107,7 +103,7 @@ padding-left: 30px;
 width: 50%;
 padding-left: 30px;
 text-align: justify;
-   vertical-align: top;
+vertical-align: top;
 }
 
 .trdaniel
