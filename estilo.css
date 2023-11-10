@@ -112,7 +112,12 @@ width: 50%;
 padding-left: 5px;
 }
 
-
+.thprincipal
+ {
+width: 33%;
+padding-left: 15px;
+text-align: justify;
+vertical-align: top;
 
 .daniel {
 margin: 0 auto;
