@@ -82,9 +82,9 @@ font-family: "Georgia", serif;
   text-align: center;
 }
 
-.imagenesindex { 
+.imagenesindex {
   width: 200px;
-  heigth: 200px;
+  height: 200px; 
   vertical-align: middle;
 }
 
