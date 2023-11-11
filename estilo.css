@@ -9,8 +9,8 @@ p {
 h1 {
   
   font-family: "Garamond", serif;
-  margin-top: 50px;
-  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-bottom: 50px;
   text-align: center;
   text-decoration: bold;
   color: #8c1527;
@@ -214,14 +214,13 @@ width: 33%;
 .titulos {
   background-color: #8c1527;
   font-family: "Garamond", serif;
-  margin-top: 200px;
-  margin-bottom: 200px;
+  margin-top: 50px;
+  margin-bottom: 50px;
   text-align: center;
   text-decoration: bold;
   color: white;
   font-size: 60;
   text-transform: uppercase;
-  height: 300px;
   }
   
 /* NO TOCAR */
