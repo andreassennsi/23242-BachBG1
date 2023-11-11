@@ -58,7 +58,7 @@ h5 {
 
 table {
   width: 90%;
-  align: center;
+  margin: 0 auto;
   vertical-align: middle;
 }
 
@@ -93,6 +93,16 @@ font-family: "Georgia", serif;
   padding-top: 20px;
   padding-bottom: 20px;
   text-align: left;
+}
+
+.tdfotos {
+  padding-left: 20px;
+  padding-bottom: 40px;
+}
+
+.tdtexto {
+  padding-right: 20px;
+  padding-bottom: 40px;
 }
 
 .tabladaniel {
